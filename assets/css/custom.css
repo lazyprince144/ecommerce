@@ -1,0 +1,12 @@
+.share-fix{
+    position: fixed;
+    left: 0;
+    top: 50%;
+    z-index: 9999999;
+    transform: translate(0,-50%);
+}
+
+.share-fix .jssocials-share{
+    display: block;
+    margin: 0;
+}
